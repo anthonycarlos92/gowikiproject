@@ -1,7 +1,5 @@
 # gowikiproject
 
-Project for learning Go
-
 Run with: go build wiki.go
 
 or 
